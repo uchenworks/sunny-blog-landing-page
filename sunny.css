@@ -16,6 +16,7 @@ body {
 .grid-img,
 .cherry-img,
 .orange-img {
+  display:block;
   width: 100%;
 }
 
@@ -26,6 +27,7 @@ body {
 }
 
 .main-bottom-picture {
+  display:block;
   width: 100%;
 }
 
